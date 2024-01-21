@@ -16,7 +16,7 @@ Greetings! Here, you'll find a collection of exercises derived from the Udemy co
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/Helekin/bootstrap-02-complete-guide-v5.git
+git clone https://github.com/Helekin/bootstrap-02-complete-guide-v5.0.x.git
 ```
 
 ## License
